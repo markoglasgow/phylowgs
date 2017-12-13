@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/pypy
 from __future__ import print_function
 
 # Requires PyVCF. To install: pip2 install pyvcf
