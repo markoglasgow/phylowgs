@@ -102,6 +102,7 @@ class BattenbergParser(CnvParser):
     cn_regions = defaultdict(list)
     pval_threshold = 0.05
 
+    self._field_offset = -1
     with open(self._bb_filename) as bbf:
       header = bbf.next()
       for line in bbf:

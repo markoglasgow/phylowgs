@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/pypy
 import os
 import sys
 import cPickle as pickle
