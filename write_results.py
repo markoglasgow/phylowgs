@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/pypy
 import argparse
 from pwgsresults.result_generator import ResultGenerator
 from pwgsresults.result_munger import ResultMunger
